@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.spring5.tutorials</groupId>
     <artifactId>my-sfg-pet-clinic-impl-v2</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>my-sfg-pet-clinic-impl-v2</name>
     <description>Spring Pet Clinic Impl</description>
     <properties>
@@ -48,7 +48,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/Just-Dayv/my-sfg-pet-clinic-impl-v2.git</developerConnection>
-      <tag>my-sfg-pet-clinic-impl-v2-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
