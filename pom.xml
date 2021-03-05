@@ -48,6 +48,8 @@
             </plugin>
         </plugins>
     </build>
-
+    <scm>
+        <developerConnection>scm:git:https://github.com/Just-Dayv/my-sfg-pet-clinic-impl-v2.git</developerConnection>
+    </scm>
 
 </project>
